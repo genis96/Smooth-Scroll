@@ -6,6 +6,7 @@ You can also use jquery or Javascript to activate the smooth scroll. But here, I
 CLICK LINK TO VIEW": https://github.com/genis96/Smooth-Scroll/issues/1#issue-480500050
 
 Using:
+
     scroll-snap-type: y mandatory;
 	
     overflow-y: scroll;
